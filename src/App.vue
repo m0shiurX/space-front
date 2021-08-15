@@ -7,7 +7,7 @@
             <div class="flex-shrink-0">
               <img
                 class="w-8 h-8"
-                src="/img/logos/workflow-mark-on-dark.svg"
+                src="/img/logos/logo-white.png"
                 alt="Workflow logo"
               />
             </div>
