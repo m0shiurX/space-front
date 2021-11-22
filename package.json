@@ -1,5 +1,6 @@
 {
   "name": "space-front",
+  "description": "space-front is an app that allows to start a frontend application demo with a few route as a kickstarter of vue project.",
   "version": "0.0.0",
   "private": true,
   "scripts": {
